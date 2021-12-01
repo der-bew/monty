@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
- * main_loop - function iterates through lines of monty bytecode file
- * @coms: array of instruction structs
+ * main_loop - Function iterates through lines of monty bytecode file
+ * @coms: Array of instruction structs
  *
  */
 void main_loop(instruction_t coms[])
