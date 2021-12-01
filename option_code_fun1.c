@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
- * add_o - function implements the 'add' opcode
- * @stack: head of stack
+ * add_o - Function implements the 'add' opcode
+ * @stack: Head of stack
  * @line_number: current line number in file
  */
 void add_o(stack_t **stack, unsigned int line_number)
