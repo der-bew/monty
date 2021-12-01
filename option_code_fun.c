@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
- * push_o - function pushes node onto stack
- * @stack: head of stack
+ * push_o - Function pushes node onto stack
+ * @stack: Head of stack
  * @line_number: current line number in file
  */
 void push_o(stack_t **stack, unsigned int line_number)
