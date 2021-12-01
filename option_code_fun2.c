@@ -1,9 +1,9 @@
 #include "monty.h"
 
 /**
- * mod_o - function implements the 'mod' opcode
- * @stack: head of stack
- * @line_number: current line number in file
+ * mod_o - Function implements the 'mod' opcode
+ * @stack: Head of stack
+ * @line_number: Current line number in file
  */
 void mod_o(stack_t **stack, unsigned int line_number)
 {
