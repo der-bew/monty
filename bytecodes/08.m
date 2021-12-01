@@ -1,0 +1,2 @@
+swap
+push 1
